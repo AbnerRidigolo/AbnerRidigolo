@@ -21,11 +21,28 @@ Possuo experiência em diversas áreas e trabalho integrando-as para obter uma v
 </p>
 
 ---
-
 ### 🛠 **Habilidades e Ferramentas**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,pytorch,html,css,js,java,git,github,githubactions,gitlab,docker,linux,vscode,figma,fastapi,anaconda&perline=10" />
+  <!-- Primeira linha: Data Science & Programação -->
+  <img src="https://skillicons.dev/icons?i=python,r,jupyter,vscode,replit,googlecloud,gcp,anaconda,sklearn,tensorflow,pytorch&perline=10" />
 </p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,kafka,postgres,mysql,sqlite,mongodb,redis,cassandra,dynamodb,bootstrap,cypress,postman,powershell,pycharm,notion,discord,eclipse&perline=10" />
+  <!-- Segunda linha: Big Data & Engenharia de Dados -->
+  <img src="https://skillicons.dev/icons?i=aws,azure,databricks,kafka,apache,spark,mongodb,postgres,mysql,sqlite,docker,linux&perline=10" />
 </p>
+
+<p align="center">
+  <!-- Terceira linha: Ferramentas de Produtividade -->
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,notion,figma,trello,powerbi,gmail,linkedin&perline=10" />
+</p>
+
+<p align="center">
+  <!-- Ícones que não existem no skillicons.dev (uso badges para representar) -->
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Pig-FF6C37?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Impala-FF6C37?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Big%20Data-FFB400?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+</p>
+

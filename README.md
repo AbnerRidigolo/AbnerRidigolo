@@ -10,14 +10,14 @@ Possuo experiência em diversas áreas e trabalho integrando-as para obter uma v
 
 ### 📊 **Idiomas mais usados**
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerRidigolo&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerRidigolo&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📈 **Minhas Contribuições**
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbnerRidigolo&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbnerRidigolo&theme=tokyonight" />
 </p>
 
 ---

@@ -1,4 +1,4 @@
-<h1 align="center">Olá, bem-vindo ao meu perfil no GitHub! 👋</h1>
+<h1 align="center">Bem-vindo ao meu perfil no GitHub! 👋</h1>
 
 <h2 align="center">Olá, mundo! Meu nome é <span style="color:#FF7F50;">Abner Ridigolo</span>.</h2>
 
@@ -21,7 +21,6 @@ Possuo experiência em diversas áreas e trabalho integrando-as para obter uma v
 </p>
 
 ---
-### 🛠 **Habilidades e Ferramentas**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,r,vscode,replit,anaconda,sklearn,tensorflow,pytorch,aws,gcp,azure,kafka,mongodb,postgres,mysql,sqlite,docker,linux,git,github,githubactions,gitlab,notion,figma,gmail,linkedin,html,css,js,java,php,cypress,postman,bootstrap,kubernetes,redis,cassandra,dynamodb,pycharm,discord&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,r,julia,jupyter,anaconda,sklearn,tensorflow,pytorch,opencv,streamlit,airflow,databricks,kafka,hadoop,spark,scala,postgres,mysql,sqlite,mongodb,redis,snowflake,dbt,docker,linux,git,github,githubactions,aws,gcp,azure&perline=14" />
 </p>

@@ -26,7 +26,7 @@ Possuo experiência em diversas áreas e trabalho integrando-as para obter uma v
 <p align="center">
 
 <!-- Ícones do skillicons -->
-<img src="https://skillicons.dev/icons?i=python,r,julia,anaconda,sklearn,tensorflow,pytorch,opencv,kafka,hadoop,spark,scala,postgres,mysql,sqlite,mongodb,redis,snowflake,dbt,docker,linux,git,github,githubactions,gitlab,aws,gcp,azure,vscode,visualstudio,vercel,figma,notion,trello,cypress,postman,bootstrap,kubernetes,php,java,js,ts,html,css,fastapi,eclipse,pycharm,discord,latex,firebase,graphql,powershell,npm,nodejs,tailwind,selenium&perline=11" />
+<img src="https://skillicons.dev/icons?i=python,r,julia,anaconda,sklearn,tensorflow,pytorch,opencv,kafka,scala,postgres,mysql,sqlite,mongodb,redis,docker,linux,git,github,githubactions,gitlab,aws,gcp,azure,vscode,visualstudio,vercel,figma,notion,cypress,postman,bootstrap,kubernetes,php,java,js,ts,html,css,fastapi,eclipse,pycharm,discord,latex,firebase,graphql,powershell,npm,nodejs,tailwind,selenium&perline=11" />
 
 <p align="center">
 <img src="openai.png" width="45" />

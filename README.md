@@ -7,19 +7,21 @@ Possuo experiência em diversas áreas e trabalho integrando-as para obter uma v
 </p>
 
 ---
-## 📊 Idiomas mais usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerRidigolo&layout=compact&theme=tokyonight&hide_border=true)
+### 📊 **Idiomas mais usados**
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerRidigolo&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</p>
 
 ---
 
-## 🔥 Minhas Contribuições
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AbnerRidigolo&theme=radical&hide_border=true)
-
-
-
-
+### 📈 **Minhas Contribuições**
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbnerRidigolo&theme=radical" />
+</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbnerRidigolo&theme=radical&bg_color=0D1117&color=FF8000&line=FF8000&point=FFA500&area=true&hide_border=true" />
+</p>
 
 ---
 ### 🛠 **Habilidades e Ferramentas**

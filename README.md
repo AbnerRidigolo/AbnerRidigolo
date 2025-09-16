@@ -24,5 +24,8 @@ Possuo experiência em diversas áreas e trabalho integrando-as para obter uma v
 
 ### 🛠 **Habilidades e Ferramentas**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikitlearn,tensorflow,pytorch,r,html,css,js,java,git,github,githubactions,gitlab,docker,linux,aws,gcp,figma,vscode,anaconda,kafka,kubernetes,azure,bootstrap,cassandra,redis,sqlite,cypress,postman,powershell,pycharm,discord,dynamodb,mysql,postgres	,mongodb,php,eclipse,fastapi,notion&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,pytorch,html,css,js,java,git,github,githubactions,gitlab,docker,linux,vscode,figma,fastapi,anaconda&perline=10" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,kafka,postgres,mysql,sqlite,mongodb,redis,cassandra,dynamodb,bootstrap,cypress,postman,powershell,pycharm,notion,discord,eclipse&perline=10" />
 </p>

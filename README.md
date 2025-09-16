@@ -15,7 +15,7 @@ Possuo experiência em diversas áreas e trabalho integrando-as para obter uma v
 
 ## 🔥 Minhas Contribuições
 
-<img src="https://streak-stats.demolab.com?user=AbnerRidigolo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com?user=AbnerRidigolo&theme=radical&hide_border=true)
 
 
 

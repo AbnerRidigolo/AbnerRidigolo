@@ -13,18 +13,10 @@ Possuo experiência em diversas áreas e trabalho integrando-as para obter uma v
 <table>
   <tr>
     <td>
-      <!-- Card de Contribuições -->
-      <img 
-        src="https://streak-stats.demolab.com?user=AbnerRidigolo&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
-        alt="GitHub Streak"
-        height="180"/>
+      <img src="https://streak-stats.demolab.com?user=AbnerRidigolo&theme=tokyonight&hide_border=true" height="180" alt="" />
     </td>
     <td>
-      <!-- Card de Linguagens -->
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerRidigolo&layout=compact&theme=tokyonight&hide_border=true"
-        alt="Top Languages"
-        height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerRidigolo&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="" />
     </td>
   </tr>
 </table>

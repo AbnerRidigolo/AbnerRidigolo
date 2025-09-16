@@ -28,16 +28,21 @@ Possuo experiência em diversas áreas e trabalho integrando-as para obter uma v
 <!-- Ícones do skillicons -->
 <img src="https://skillicons.dev/icons?i=python,r,julia,jupyter,anaconda,sklearn,tensorflow,pytorch,opencv,airflow,databricks,kafka,hadoop,spark,scala,postgres,mysql,sqlite,mongodb,redis,snowflake,dbt,docker,linux,git,github,githubactions,gitlab,aws,gcp,azure,vscode,visualstudio,vercel,figma,notion,trello,cypress,postman,bootstrap,kubernetes,php,java,js,ts,html,css,fastapi,eclipse,pycharm,discord,latex,firebase,graphql,powershell,npm,nodejs,tailwind,selenium&perline=11" />
 
-<!-- Ícones customizados misturados -->
-<img src="assets/openai.png" width="45" />
-<img src="assets/n8n.png" width="45" />
-<img src="assets/dbeaver.png" width="45" />
-<img src="assets/neo4j.png" width="45" />
-<img src="assets/pandas.png" width="45" />
-<img src="assets/powerbi.png" width="45" />
-<img src="assets/colab.png" width="45" />
-<img src="assets/impala.png" width="45" />
-<img src="assets/cloudera.png" width="45" />
-<img src="assets/pig.png" width="45" />
+<p align="center">
+<img src="openai.png" width="45" />
+<img src="n8n.png" width="45" />
+<img src="dbeaver.png" width="45" />
+<img src="pandas.png" width="45" />
+<img src="powerbi.png" width="45" />
+<img src="colab.png" width="45" />
+<img src="impala.png" width="45" />
+<img src="cloudera.jpeg" width="45" />
+<img src="databricks.png" width="45" />
+<img src="hadoop.png" width="45" />
+<img src="neoforj.png" width="45" />
+<img src="porco.png" width="45" />
+<img src="faisca.png" width="45" />
+</p>
+
 
 </p>

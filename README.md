@@ -8,20 +8,16 @@ Possuo experiência em diversas áreas e trabalho integrando-as para obter uma v
 
 ---
 
-### 📊 Idiomas mais usados
+### 📊 **Idiomas mais usados**
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerRidigolo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=14400"
-  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerRidigolo&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
 ---
 
-### 📈 Minhas Contribuições
+### 📈 **Minhas Contribuições**
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=AbnerRidigolo&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
-  />
+<img src="https://streak-stats.demolab.com?user=AbnerRidigolo&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---

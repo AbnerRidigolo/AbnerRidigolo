@@ -36,9 +36,16 @@ Possuo experiência em diversas áreas e trabalho integrando-as para obter uma v
 <img src="https://img.shields.io/badge/n8n-EA4B8B?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" />
 <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Impala-FF6C37?style=for-the-badge&logo=apache&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20Pig-FF6C37?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Impala-FF6C37?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudera-F96702?style=for-the-badge&logo=cloudera&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FC3627?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Airflow-007A88?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 </p>
+
 
 
 

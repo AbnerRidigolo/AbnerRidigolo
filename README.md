@@ -18,7 +18,7 @@ Possuo experiência em diversas áreas e trabalho integrando-as para obter uma v
 
 ### 📈 **Minhas Contribuições**
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbnerRidigolo&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbnerRidigolo&theme=dracula" />
 </p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbnerRidigolo&theme=radical&bg_color=0D1117&color=FF8000&line=FF8000&point=FFA500&area=true&hide_border=true" />
 </p>

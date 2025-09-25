@@ -3,7 +3,7 @@
 <h2 align="center">Olá, mundo! Meu nome é <span style="color:#FF7F50;">Abner Ridigolo</span>.</h2>
 
 <p align="center">
-Possuo experiência em diversas áreas e trabalho integrando-as para obter uma visão abrangente e holística no desenvolvimento de processos, visando a execução das atividades com a máxima excelência. Acredito que a inovação é o pilar essencial para o progresso. Por isso, busco superar expectativas, propondo soluções verdadeiramente disruptivas e eficientes, pensando fora da caixa.
+Sou um jovem de 18 que possui experiência em diversas áreas e trabalho integrando-as para obter uma visão abrangente e holística no desenvolvimento de processos, visando a execução das atividades com a máxima excelência. Acredito que a inovação é o pilar essencial para o progresso. Por isso, busco superar expectativas, propondo soluções verdadeiramente disruptivas e eficientes, pensando fora da caixa.
 </p>
 
 ---
